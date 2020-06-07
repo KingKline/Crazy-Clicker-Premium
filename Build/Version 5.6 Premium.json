@@ -1,0 +1,16 @@
+{
+"companyName": "Kings Untiy",
+"productName": "Crazy Clicker",
+"productVersion": "5.5",
+"dataUrl": "Version 5.6 Premium.data.unityweb",
+"wasmCodeUrl": "Version 5.6 Premium.wasm.code.unityweb",
+"wasmFrameworkUrl": "Version 5.6 Premium.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#5A4D3D",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.13f1"
+}
